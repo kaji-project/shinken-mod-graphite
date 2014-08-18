@@ -1,0 +1,3 @@
+module/* /usr/share/pyshared/shinken/modules/shinken-mod-graphite
+README.md /usr/share/doc/shinken-mod-graphite
+etc/* /etc/shinken
