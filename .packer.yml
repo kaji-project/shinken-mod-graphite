@@ -1,0 +1,6 @@
+debian_7:
+    debian: debian
+debian_8:
+    debian: debian
+ubuntu_14.04:
+    debian: debian
